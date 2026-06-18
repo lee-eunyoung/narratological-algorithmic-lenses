@@ -27,6 +27,13 @@ from narratological.models.analyst import (
     RoleAnalysisResult,
     SynthesisConfig,
 )
+from narratological.models.note import (
+    LinkType,
+    Note,
+    NoteLink,
+    NoteType,
+    Zettelkasten,
+)
 from narratological.models.protocol import ProtocolLevel, ProtocolSpec
 from narratological.models.report import (
     ActAnalysis,
@@ -103,4 +110,10 @@ __all__ = [
     "SynthesisConfig",
     "MultiRoleAnalysis",
     "AnalystContext",
+    # Zettelkasten note models
+    "Note",
+    "NoteLink",
+    "NoteType",
+    "LinkType",
+    "Zettelkasten",
 ]

@@ -10,7 +10,7 @@
 | [02-literature-review.md](02-literature-review.md) | 선행연구 근거표 (PubMed 실검색, PMID/DOI 명기) | 부속 |
 | [03-delphi-instrument.md](03-delphi-instrument.md) | 델파이 도구 — 패널·라운드·1라운드 항목·CVR 임계값표·합의기준 | 부속 |
 | [04-proposal-draft.md](04-proposal-draft.md) | 정식 제안서 초안 (서론–방법–기대효과) | 부속 |
-| [05-classification-algorithm.md](05-classification-algorithm.md) | 4집단 분류 판정 흐름도 (CDR + 진단기준 분기, Mermaid) | 부속 |
+| [05-classification-algorithm.md](05-classification-algorithm.md) | 4집단 분류 판정 흐름도 (CDR 라우팅 + ②/③ 신경심리·기능평가 세부 알고리즘, Mermaid) | 부속 |
 
 ## 핵심 설계 결정 요약
 1. **프레이밍**: "단계 간 차이 검정"이 아니라 **"단계별 차별화 프로토콜 개발 + 전문가 합의
@@ -24,5 +24,5 @@
 
 ## 주의
 - `02`의 PubMed 인용은 모두 실제 검색으로 확인됨. 제출 전 각 DOI에서 서지정보 최종 대조.
-- 국내 문헌(치매안심센터·CIST)은 RISS/KCI/DBpia 등 국내 DB로 보강 필요(PubMed 범위 밖).
+- 국내 한국어 문헌(치매안심센터·신경심리 도구 등)은 RISS/KCI/DBpia 등 국내 DB로 보강 필요(PubMed 범위 밖; `02` §2-9 검색 프로토콜).
 - 본 묶음은 **계획 단계 자료**다. 실제 IRB 제출·자료수집·분석은 포함하지 않는다.

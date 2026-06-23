@@ -19,6 +19,12 @@
 | 지역사회 노인·MCI 간호중재 | `community-dwelling older adults MCI nursing intervention` | 330건 |
 | 국내 치매검진·인지·간호 | `Korea community dementia screening older adults cognitive nursing` | 22건 |
 | CDR 단계판별 정확도 | `Clinical Dementia Rating nursing care intervention` | 1,205건 |
+| 국내 신경심리 배터리 | `CERAD-K Korean neuropsychological battery validation dementia` | 2건 |
+| 신경심리 도메인 판별(②/③) | `Boston Naming / verbal fluency / word list memory discriminate MCI dementia` | 2건 |
+| MMSE 진단정확도 | `MMSE diagnostic accuracy MCI dementia screening older adults` | 479건 |
+
+> **국내 DB(RISS·KCI·DBpia)는 본 도구로 직접 검색 불가** → 아래 §2-9에 **검색 프로토콜(템플릿)**으로
+> 제시하며, 연구자가 직접 검색·검증 후 제출본에 반영한다. 본 문서는 PubMed/Scite 검증분만 인용한다.
 
 > **검색에서 드러난 공백(gap)**: `dementia stage-specific nursing care protocol cognitive
 > decline` 질의는 **0건**이었다. 즉 "인지단계(정상–MCI–치매 세부단계)별로 간호진단·중재·
@@ -121,6 +127,38 @@
 | **Lee & Jung (2020, 국내)** | 지역사회 노인 치매공포척도 **개발·내용타당도** | 국내 간호 도구개발+CVI(방법 일치) |
 | **Kim & Cha (2021, 국내)** | 2017 노인실태조사 2차분석, 연령군별 인지예측(치매검진 포함) | 국내 검진 2차자료 활용 모델 |
 
+### 2-8. 국내 신경심리 도구 맥락 — CERAD-K 배터리 및 ②/③ 판별 근거(검증분)
+
+> `05` 분류 알고리즘의 **신경심리 자료원**(MMSE · 단어목록기억 · 보스턴이름대기 · 단어유창성)과
+> **②/③ 도메인 분기**의 직접 근거. 네 검사는 **CERAD-K 배터리**의 핵심 구성요소다.
+
+| 저자(연도) | 내용 | 본 연구 함의 |
+|-----------|------|--------------|
+| **Lee et al. (2002, 국내)** | ★ **CERAD-K** 개발·타당화(MMSE-K·단어목록기억·보스턴이름대기·단어유창성 포함); 정상 vs MCI vs AD 유의 판별, 평가자간·재검사 신뢰도 확보 | `05` 신경심리 **자료원 앵커**(국내 표준화 도구) |
+| Kim et al. (2025) | CERAD-K/SNSB-II 대조 배터리; **memory/language/executive 도메인** 상관 ≥0.7, MCI vs 치매 판별 민감도 0.896 | 도메인별 평가로 ②/③ 구분 가능성의 근거 |
+| Aniwattanapong et al. (2018) | BNT 타당화(MMSE·단어유창성·단어목록기억 병용); **명명(BNT) 손상은 치매 예측, amnestic MCI는 비예측** | ②(보존)/③(명명손상) **도메인 분기**의 직접 근거 |
+| Alegret et al. (2013) | 간이 신경심리배터리 절단점; **단어목록학습·의미유창성이 정상↔치매 최강 판별**; 연령·교육 보정 절단점 | 기억·유창성을 판별축으로, **절단점 보정** 방법 근거 |
+| **Kim & Kim (2025, 국내, JKAN)** | 지역사회 MCI 가역/진행 노모그램(KLoSA); **IADL·악력·우울이 진행 예측** | ③(독립성 상실) 판별의 **IADL 축** + 단계분류 정당화 |
+
+### 2-9. 국내 DB(RISS·KCI·DBpia) 검색 프로토콜 (템플릿 — 직접 검색 필요)
+
+> 본 도구(PubMed/Scite)는 RISS·KCI·DBpia 등 **국내 학술 DB에 접근할 수 없다.** 가짜 인용을
+> 피하기 위해, 한국어 문헌은 **인용 대신 재현 가능한 검색 설계**를 제공한다. 연구자가 아래
+> 프로토콜로 직접 검색·선별·검증한 뒤 제출본 참고문헌에 PMID 없이 **국내 서지정보**로 반영한다.
+
+- **대상 DB**: RISS, KCI(한국학술지인용색인), DBpia, KISS, KoreaMed/KMbase, 학위논문(국회도서관·dCollection)
+- **한국어 검색어(예)**:
+  - 도구·검진: `치매안심센터`, `인지선별검사 CIST`, `MMSE-DS`, `CERAD-K`, `SNSB`
+  - 단계·대상: `경도인지장애`, `치매 단계별`, `지역사회 노인 인지`, `일상생활수행능력 K-IADL`
+  - 간호·방법: `경도인지장애 간호중재`, `치매 간호진단 NANDA`, `NANDA NIC NOC`,
+    `델파이 내용타당도`, `CVI 도구개발`
+- **포함기준**: 국내 간호(학위·학술) 문헌, 치매·MCI·인지 대상, 단계/중증도·간호진단·중재·평가
+  또는 도구개발/내용타당도/델파이를 다룬 연구
+- **배제기준**: 비-간호·동물·생물표지자 단독, 본문 미확보, 중복
+- **기간·언어**: 최근 10–15년 우선, 국문·영문 병행
+- **명문 단서**: 본 보고서는 **PubMed/Scite 검증분만 PMID/DOI와 함께 인용**한다. 위 국내 DB
+  결과는 연구자가 **직접 검색·원문 확인 후** 제출본에 반영하며, 미확인 항목은 인용하지 않는다.
+
 ---
 
 ## 3. 종합 및 본 연구의 위치 (synthesis)
@@ -149,8 +187,11 @@
 
 5. **국내 맥락**: 국내 간호 연구가 CDR 단계화·후향 의무기록(Kim et al., 2021), 지역사회
    선별자료(Yi & Yoon, 2023; Kim & Cha, 2021), 도구개발·내용타당도(Lee & Jung, 2020)로
-   존재해 본 연구의 자료·방법을 뒷받침한다. 다만 치매안심센터·CIST(인지선별검사) 관련 문헌은
-   PubMed 밖(RISS, KCI, DBpia)에 다수 있으므로, 제출본에서는 국내 DB 검색으로 보강한다.
+   존재해 본 연구의 자료·방법을 뒷받침한다. 특히 **신경심리 자료원**은 국내 표준화 배터리인
+   **CERAD-K**(MMSE·단어목록기억·보스턴이름대기·단어유창성; Lee et al., 2002)로 정박되며,
+   이 도메인 평가가 ②/③(MCI vs 최경도 치매) 구분의 핵심 근거다(Aniwattanapong et al., 2018;
+   Alegret et al., 2013; Kim & Kim, 2025). 다만 한국어 학술 문헌은 PubMed 밖(RISS, KCI, DBpia)에
+   다수 있으므로, 제출본에서는 §2-9 **검색 프로토콜(템플릿)**로 국내 DB를 직접 검색해 보강한다.
 
 ---
 
@@ -281,6 +322,28 @@
   by age group: Based on the 2017 National Survey of Older Korean Adults. *International Journal
   of Environmental Research and Public Health, 18*(18), 9600.
   https://doi.org/10.3390/ijerph18189600  (PMID: 34574523)
+
+**신경심리 도구(CERAD-K 배터리) 및 ②/③ 도메인 판별 (2-8절)**
+- Lee, J. H., Lee, K. U., Lee, D. Y., Kim, K. W., Jhoo, J. H., Kim, J. H., Lee, K. H., Kim, S. Y.,
+  Han, S. H., & Woo, J. I. (2002). Development of the Korean version of the Consortium to Establish
+  a Registry for Alzheimer's Disease Assessment Packet (CERAD-K): Clinical and neuropsychological
+  assessment batteries. *Journal of Gerontology: Psychological Sciences, 57*(1), P47–P53.
+  https://doi.org/10.1093/geronb/57.1.p47  (PMID: 11773223)
+- Aniwattanapong, D., et al. (2018). Validation of the Thai version of the short Boston Naming Test
+  (T-BNT) in patients with Alzheimer's dementia and mild cognitive impairment: Clinical and
+  biomarker correlates. *Aging & Mental Health, 23*(7), 840–850.
+  https://doi.org/10.1080/13607863.2018.1501668  (PMID: 30351202)
+- Alegret, M., et al. (2013). Cut-off scores of a brief neuropsychological battery (NBACE) for
+  Spanish individual adults older than 44 years old. *PLoS One, 8*(10), e76436.
+  https://doi.org/10.1371/journal.pone.0076436  (PMID: 24146868)
+- Kim, Y. J., Shin, J. S., An, D., Na, D. L., & Kim, H. J. (2025). Clinical utility and diagnostic
+  accuracy of the tablet-based Seoul Cognitive Status Test: Evidence for scalable cognitive
+  assessment. *Dementia and Neurocognitive Disorders, 24*(4), 286–300.
+  https://doi.org/10.12779/dnd.2025.24.4.286  (PMID: 41220867)
+- Kim, H. J., & Kim, H. Y. (2025). Nomogram for predicting changes in cognitive function in
+  community-dwelling older adults with mild cognitive impairment based on Korea Longitudinal Study
+  of Ageing Panel Data: A retrospective study. *Journal of Korean Academy of Nursing, 55*(1),
+  50–63. https://doi.org/10.4040/jkan.24059  (PMID: 40012456)
 
 > *주의*: 저자명 첫 저자는 PubMed 메타데이터 기준 추정이며, 제출 전 각 DOI에서 정확한
 > 저자·권/호/페이지를 최종 확인할 것. 본 표의 1차 목적은 **실재하는 근거의 정확한 식별

@@ -38,7 +38,8 @@ IRB 준비         예비 항목 매트릭스       개방형 의견 수집     
 - 연구 주제·질문·목적을 확정하고 지도교수와 합의한다.
 - 연구설계를 "단계 간 차이 **검정**"이 아니라 **"단계별 차별화된 간호 프로토콜의 개발 및
   전문가 합의(내용타당화)"**로 확정한다. → 상세 근거는 `01-research-design.md`.
-- 단계 분류 기준(정상 / MCI / 치매[경도·중등도·중증])을 **CDR 또는 GDS** 중 하나로 확정한다.
+- 단계 분류 기준(정상 / MCI / 치매[경도·중등도·중증])을 **CDR 또는 GDS** 중 하나로 확정한다
+  (Morris, 1993; Reisberg et al., 1982).
 - 두 데이터 소스의 **역할**을 분리한다(아래 1단계 참조).
 - IRB(생명윤리위원회) 제출을 준비한다.
 
@@ -61,6 +62,12 @@ IRB 준비         예비 항목 매트릭스       개방형 의견 수집     
   델파이는 **합의·내용타당화** 도구다(`01` 참조).
 - ✗ IRB를 마지막에 준비 → 전체 일정이 밀린다. **0단계에서 바로 착수**.
 - ✗ 단계 분류 기준을 모호하게 두면 1단계에서 자료 정렬이 불가능해진다.
+
+> **📚 이 단계의 근거·출처**
+> - 델파이는 차이검정이 아니라 **합의·내용타당화** 도구이며 그 보고기준이 정립되어 있음:
+>   Jünger et al. (2017, CREDES); 치매 영역 적용례 van der Steen et al. (2023), Hughes et al. (2022)
+> - 단계 분류 기준(CDR/GDS): Morris (1993) — CDR; Reisberg et al. (1982) — GDS
+> - *(서지·PMID/DOI는 문서 말미 「참고문헌(출처)」 참조)*
 
 ---
 
@@ -123,6 +130,13 @@ IRB 준비         예비 항목 매트릭스       개방형 의견 수집     
   한계로 명시.
 - ✗ 항목 수 과다(평정 피로) — 1라운드는 폭넓게, 이후 라운드에서 수렴.
 
+> **📚 이 단계의 근거·출처**
+> - 문헌·표준자료에서 예비 항목을 도출하는 경로: Hughes et al. (2022); Øye et al. (2023)
+> - 단계별 비약물 간호중재(운동 등) 근거: Huang et al. (2021/2022)
+> - MCI는 치매 이행을 늦출 수 있는 **중재 표적**: Song et al. (2022); Salari et al. (2025)
+> - 단계 분류 기준(CDR/GDS): Morris (1993); Reisberg et al. (1982)
+> - 간호과정 표준 분류체계 NANDA-I / NIC / NOC: **표준 분류서(원전 확인 요 — 비-PubMed)**
+
 ---
 
 ## 2단계 — 델파이 1라운드 (가장 막막한 단계 ②)
@@ -158,6 +172,11 @@ IRB 준비         예비 항목 매트릭스       개방형 의견 수집     
 - ✗ 회수율 관리 실패 → 중도탈락은 합의 안정성을 해친다. 리마인더·기한을 설계에 포함.
 - ✗ 평정척도와 합의 기준을 1라운드 후 바꾸기 → 사전 고정.
 
+> **📚 이 단계의 근거·출처**
+> - 패널 규모(동질 패널 10명 이상 운용 가능): de Oliveira Riboldi et al. (2015)
+> - 패널 구성·다학제·수정델파이 절차: Fortinsky et al. (2023); Hughes et al. (2022)
+> - 익명·라운드 간 피드백·재평정이라는 델파이 절차의 본질: Jünger et al. (2017, CREDES)
+
 ---
 
 ## 3단계 — 델파이 2~3라운드 및 합의 (가장 막막한 단계 ③)
@@ -176,9 +195,10 @@ IRB 준비         예비 항목 매트릭스       개방형 의견 수집     
 - [ ] 분석 도구(CVR 임계값표, 변동계수·수렴도·합의도 계산식 — `03` 참조)
 
 ### ③ 합의·판정 기준 (요약 — 상세 계산은 `03-delphi-instrument.md`)
-- **내용타당도비율 CVR (Lawshe)**: 패널 수에 따른 임계값을 넘는 항목만 채택.
+- **내용타당도비율 CVR (Lawshe, 1975)**: 패널 수에 따른 임계값을 넘는 항목만 채택.
   - 예) 패널 10명 → CVR ≥ 0.62, 15명 → ≥ 0.49, 20명 → ≥ 0.42 (Lawshe 기준표).
-- **내용타당도지수 CVI**: 항목 I-CVI ≥ 0.78, 척도 S-CVI ≥ 0.90 권장.
+- **내용타당도지수 CVI**: 항목 I-CVI ≥ 0.78, 척도 S-CVI ≥ 0.90 권장
+  (Polit, Beck & Owen, 2007; Polit & Beck, 2006).
 - **안정도(stability)**: 변동계수 **CV ≤ 0.5**(또는 ≤0.8) → 라운드 간 응답이 안정.
 - **수렴도/합의도**: 사분위범위(IQR) 기반 수렴·합의 지표.
 - → 위 기준을 **사전에 하나로 고정**하고 모든 항목에 동일 적용.
@@ -201,6 +221,13 @@ IRB 준비         예비 항목 매트릭스       개방형 의견 수집     
 - ✗ 라운드를 무한정 반복 → 패널 피로·탈락. 종료 규칙을 미리 정한다.
 - ✗ CVR 임계값을 패널 수와 무관하게 고정(예: 무조건 0.5) → Lawshe 표에 맞춰야 한다.
 
+> **📚 이 단계의 근거·출처**
+> - CVR 및 패널 수별 최소 임계값표: **Lawshe (1975)** — *Personnel Psychology* (원전 확인 요 — 비-PubMed)
+> - I-CVI ≥ 0.78(전문가 3명 이상)·S-CVI 산출법: Polit, Beck & Owen (2007); Polit & Beck (2006)
+> - 합의 정의(예: 패널 70% 이내 수렴)·항목 채택 규칙의 실제 적용: Hughes et al. (2022)
+> - 라운드 간 피드백을 통한 의견 수렴(델파이 핵심 절차): Jünger et al. (2017, CREDES)
+> - *안정도(변동계수 CV) 기준은 일반 통계 지표로, 델파이 도구 문서(`03`)의 운용 규칙을 따른다.*
+
 ---
 
 ## 4단계 — 결과 정리·논문화 (PROVE)
@@ -214,7 +241,7 @@ IRB 준비         예비 항목 매트릭스       개방형 의견 수집     
 - [ ] 라운드별 분석 결과·합의표
 - [ ] 최종 프로토콜(매트릭스)
 - [ ] 타당도 보고(CVR/CVI 표, 안정도)
-- [ ] 보고지침 점검: 델파이 보고 권고(예: CREDES 등 합의연구 보고기준) 준수 체크
+- [ ] 보고지침 점검: 델파이 보고 권고 **CREDES** 준수 체크 (Jünger et al., 2017)
 
 ### ③ 산출물
 - 학위논문 결과·고찰, 최종 프로토콜, (선택) 학술지 투고본
@@ -225,6 +252,10 @@ IRB 준비         예비 항목 매트릭스       개방형 의견 수집     
 ### ⑤ 흔한 실수
 - ✗ 합의 결과만 나열하고 **임상적 의미·적용 가능성** 해석을 빠뜨리기.
 - ✗ 한계(자료원 편중, 패널 대표성) 미기술 → 심사 지적.
+
+> **📚 이 단계의 근거·출처**
+> - 델파이 연구의 **보고기준**(과정·결과 투명 보고): Jünger et al. (2017, CREDES)
+> - 내용타당도(CVI) 보고 시 I-CVI/S-CVI 계산법 명시 필요: Polit & Beck (2006)
 
 ---
 
@@ -240,3 +271,65 @@ IRB 준비         예비 항목 매트릭스       개방형 의견 수집     
 - [ ] 2. 패널 구성(10~20명, 자격 명문화) / 1라운드 평정+개방형 / 회수율 관리
 - [ ] 3. 피드백 포함 2~3라운드 / 사전 고정 합의기준(CVR·CVI·CV) / 최종 프로토콜 확정
 - [ ] 4. 타당도 보고 / 한계·임상의의 해석 / 논문화
+
+---
+
+## 참고문헌 (출처)
+
+> 아래 PubMed 출처는 **실제 검색으로 확인**한 것이다(*According to PubMed*; 검색일 2026-06).
+> 각 문헌 링크는 `https://doi.org/{DOI}`. 선행연구 근거표는 `02-literature-review.md`와 일치하며,
+> 본 가이드 단독으로도 출처를 추적할 수 있도록 통합했다.
+
+**단계 분류 도구**
+- Morris, J. C. (1993). The Clinical Dementia Rating (CDR): Current version and scoring rules.
+  *Neurology, 43*(11), 2412–2414. [DOI](https://doi.org/10.1212/wnl.43.11.2412-a) (PMID: 8232972)
+- Reisberg, B., Ferris, S. H., de Leon, M. J., & Crook, T. (1982). The Global Deterioration Scale
+  for assessment of primary degenerative dementia. *American Journal of Psychiatry, 139*(9),
+  1136–1139. [DOI](https://doi.org/10.1176/ajp.139.9.1136) (PMID: 7114305)
+
+**델파이 방법론·보고기준 / 내용타당도**
+- Jünger, S., Payne, S. A., Brine, J., Radbruch, L., & Brearley, S. G. (2017). Guidance on
+  Conducting and REporting DElphi Studies (CREDES) in palliative care. *Palliative Medicine,
+  31*(8), 684–706. [DOI](https://doi.org/10.1177/0269216317690685) (PMID: 28190381)
+- Polit, D. F., & Beck, C. T. (2006). The content validity index: Are you sure you know what's
+  being reported? Critique and recommendations. *Research in Nursing & Health, 29*(5), 489–497.
+  [DOI](https://doi.org/10.1002/nur.20147) (PMID: 16977646)
+- Polit, D. F., Beck, C. T., & Owen, S. V. (2007). Is the CVI an acceptable indicator of content
+  validity? Appraisal and recommendations. *Research in Nursing & Health, 30*(4), 459–467.
+  [DOI](https://doi.org/10.1002/nur.20199) (PMID: 17654487)
+
+**치매 케어 델파이 합의 / 단계별 중재 근거** *(상세는 `02-literature-review.md`)*
+- van der Steen, J. T., et al. (2023). Consensus definition of advance care planning in dementia:
+  A 33-country Delphi study. *Alzheimer's & Dementia, 19*(11).
+  [DOI](https://doi.org/10.1002/alz.13526) (PMID: 37985444)
+- Hughes, C. M., et al. (2022). Identifying quality indicators for nursing home residents with
+  dementia: A modified Delphi method. *Journal of Geriatric Psychiatry and Neurology, 35*(4).
+  [DOI](https://doi.org/10.1177/08919887221106446) (PMID: 35654789)
+- Øye, C., et al. (2023). Nursing-sensitive quality indicators for quality improvement in
+  Norwegian nursing homes — A modified Delphi study. *BMC Health Services Research, 23*, 1078.
+  [DOI](https://doi.org/10.1186/s12913-023-10088-4) (PMID: 37803376)
+- Fortinsky, R. H., et al. (2023). Best practices for communicating a diagnosis of dementia.
+  *Neurology: Clinical Practice, 13*(6), e200223.
+  [DOI](https://doi.org/10.1212/CPJ.0000000000200223) (PMID: 38152063)
+- Huang, X., et al. (2021/2022). Comparative efficacy of various exercise interventions on
+  cognitive function in MCI or dementia: A network meta-analysis. *Journal of Sport and Health
+  Science.* [DOI](https://doi.org/10.1016/j.jshs.2021.05.003) (PMID: 34004389)
+- Song, Y., et al. (2022). Worldwide prevalence of mild cognitive impairment among community
+  dwellers aged 50+. *Age and Ageing, 51*(8), afac173.
+  [DOI](https://doi.org/10.1093/ageing/afac173) (PMID: 35977150)
+- Salari, N., et al. (2025). The global prevalence of mild cognitive impairment in geriatric
+  population. *BMC Geriatrics, 25.* [DOI](https://doi.org/10.1186/s12877-025-05967-w)
+  (PMID: 40329163)
+- de Oliveira Riboldi, C., et al. (2015). Instrument to assess the nursing care product:
+  Development and content validation. *Rev Lat Am Enfermagem, 23*(6).
+  [DOI](https://doi.org/10.1590/0104-1169.0448.2599) (PMID: 26444166)
+
+**비-PubMed 고전·표준 (원전에서 직접 확인 요 — 가짜 PMID/DOI를 만들지 않음)**
+- Lawshe, C. H. (1975). A quantitative approach to content validity. *Personnel Psychology, 28*(4),
+  563–575. — CVR 및 패널 수별 최소 임계값표의 원전.
+- NANDA International. *Nursing Diagnoses: Definitions and Classification* (최신판). — 간호진단(NANDA-I).
+- Butcher, H. K., et al. *Nursing Interventions Classification (NIC)* (최신판). — 간호중재.
+- Moorhead, S., et al. *Nursing Outcomes Classification (NOC)* (최신판). — 간호성과.
+
+> ⚠ 저자명·연도는 PubMed 메타데이터 기준이다. 제출 전 각 DOI 원문에서 서지정보를 최종 대조하라.
+> 국내 문헌(치매안심센터·CIST 등)은 PubMed 범위 밖이므로 RISS/KCI/DBpia로 보강한다.

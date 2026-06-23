@@ -71,8 +71,8 @@ $$\text{CVR} = \frac{n_e - N/2}{N/2}$$
 > 고정해 모든 항목에 동일 적용한다. (패널 수와 무관하게 임의 임계값을 쓰지 말 것.)
 
 ### 4-2. 내용타당도지수 CVI
-- **I-CVI**(항목별) ≥ **0.78** 권장(전문가 6명 이상일 때).
-- **S-CVI/Ave**(척도 평균) ≥ **0.90** 권장.
+- **I-CVI**(항목별) ≥ **0.78**(전문가 3명 이상일 때 권장; Polit, Beck & Owen, 2007).
+- **S-CVI/Ave**(척도 평균) ≥ **0.90** 권장 (Polit & Beck, 2006).
 - I-CVI = (해당 항목을 '타당'으로 평정한 전문가 수) / (전체 전문가 수).
 
 ### 4-3. 안정도 — 변동계수 CV
@@ -132,6 +132,15 @@ $$\text{CV} = \frac{\text{표준편차}}{\text{평균}}$$
   https://doi.org/10.1590/0104-1169.0448.2599 (PMID: 26444166) — 10인 패널·CVI 운용 사례
 - Cuenca-Zaldívar, J. N., et al. (2023). *Healthcare, 11*(21), 2905.
   https://doi.org/10.3390/healthcare11212905 (PMID: 37958049) — 항목은행→델파이 내용타당도
+- Polit, D. F., & Beck, C. T. (2006). The content validity index: Critique and recommendations.
+  *Research in Nursing & Health, 29*(5), 489–497. https://doi.org/10.1002/nur.20147
+  (PMID: 16977646) — I-CVI/S-CVI 계산·보고법
+- Polit, D. F., Beck, C. T., & Owen, S. V. (2007). Is the CVI an acceptable indicator of content
+  validity? *Research in Nursing & Health, 30*(4), 459–467. https://doi.org/10.1002/nur.20199
+  (PMID: 17654487) — I-CVI ≥ 0.78 권고 근거
+- Jünger, S., et al. (2017). Guidance on Conducting and REporting DElphi Studies (CREDES).
+  *Palliative Medicine, 31*(8), 684–706. https://doi.org/10.1177/0269216317690685 (PMID: 28190381)
+  — 델파이 수행·보고 표준
 
 > ※ Lawshe(1975)는 PubMed 외 고전 문헌으로, 본 프로젝트의 PubMed 검색 대상이 아니다.
 > 제출 전 원전(Personnel Psychology)에서 임계값표를 직접 대조·확인할 것.

@@ -48,6 +48,16 @@
 | Cuenca-Zaldívar et al. (2023) | 50명 전문가 델파이, 내용타당도 분석 | 문헌에서 **항목 풀(item bank)** 구성 → 전문가 평정 → CVR/내용타당도 | 항목은행 구성 및 CVR 적용의 직접 모델 |
 | de Oliveira Riboldi et al. (2015) | 포커스그룹 + 2단계 델파이, 전문가 10명 | 간호케어 측정도구 8항목 확정, 척도 CVI ≥ 0.9, 항목 CVI 0.8–1.0 | **소규모 패널(10명)에서도** 도구개발 가능; CVI 임계값 운용 예시 |
 
+### 2-4. 단계분류 도구 및 방법론·보고 표준 (가이드 인용 근거)
+
+| 저자(연도) | 무엇 | 본 연구 함의 |
+|-----------|------|--------------|
+| Morris (1993) | CDR(임상치매척도) 현행판·채점규칙 | 인지단계(정상–MCI–치매 중증도) **분류 축**의 표준 근거 |
+| Reisberg et al. (1982) | GDS(전반적 퇴화척도) | CDR의 보조 단계분류 기준 |
+| Jünger et al. (2017) | CREDES — 델파이 수행·보고 권고(체계적 고찰 기반) | 본 연구 델파이의 **수행·보고 표준** |
+| Polit, Beck & Owen (2007) | I-CVI ≥ 0.78(전문가 3명+) 권고, 카파 보정 | 항목 채택 **CVI 임계값**의 근거 |
+| Polit & Beck (2006) | I-CVI/S-CVI 계산법 정의·보고 일관성 | CVI **계산·보고법** 근거 |
+
 ---
 
 ## 3. 종합 및 본 연구의 위치 (synthesis)
@@ -94,6 +104,21 @@
 - Hughes, C. M., et al. (2022). Identifying quality indicators for nursing home residents with
   dementia: A modified Delphi method. *Journal of Geriatric Psychiatry and Neurology, 35*(4).
   https://doi.org/10.1177/08919887221106446  (PMID: 35654789)
+- Jünger, S., Payne, S. A., Brine, J., Radbruch, L., & Brearley, S. G. (2017). Guidance on
+  Conducting and REporting DElphi Studies (CREDES) in palliative care: Recommendations based on a
+  methodological systematic review. *Palliative Medicine, 31*(8), 684–706.
+  https://doi.org/10.1177/0269216317690685  (PMID: 28190381)
+- Morris, J. C. (1993). The Clinical Dementia Rating (CDR): Current version and scoring rules.
+  *Neurology, 43*(11), 2412–2414. https://doi.org/10.1212/wnl.43.11.2412-a  (PMID: 8232972)
+- Polit, D. F., & Beck, C. T. (2006). The content validity index: Are you sure you know what's
+  being reported? Critique and recommendations. *Research in Nursing & Health, 29*(5), 489–497.
+  https://doi.org/10.1002/nur.20147  (PMID: 16977646)
+- Polit, D. F., Beck, C. T., & Owen, S. V. (2007). Is the CVI an acceptable indicator of content
+  validity? Appraisal and recommendations. *Research in Nursing & Health, 30*(4), 459–467.
+  https://doi.org/10.1002/nur.20199  (PMID: 17654487)
+- Reisberg, B., Ferris, S. H., de Leon, M. J., & Crook, T. (1982). The Global Deterioration Scale
+  for assessment of primary degenerative dementia. *American Journal of Psychiatry, 139*(9),
+  1136–1139. https://doi.org/10.1176/ajp.139.9.1136  (PMID: 7114305)
 - Øye, C., et al. (2023). Nursing-sensitive quality indicators for quality improvement in
   Norwegian nursing homes — A modified Delphi study. *BMC Health Services Research, 23*, 1078.
   https://doi.org/10.1186/s12913-023-10088-4  (PMID: 37803376)

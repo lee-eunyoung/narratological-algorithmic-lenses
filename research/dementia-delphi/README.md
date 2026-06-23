@@ -10,6 +10,7 @@
 | [02-literature-review.md](02-literature-review.md) | 선행연구 근거표 (PubMed 실검색, PMID/DOI 명기) | 부속 |
 | [03-delphi-instrument.md](03-delphi-instrument.md) | 델파이 도구 — 패널·라운드·1라운드 항목·CVR 임계값표·합의기준 | 부속 |
 | [04-proposal-draft.md](04-proposal-draft.md) | 정식 제안서 초안 (서론–방법–기대효과) | 부속 |
+| [05-classification-algorithm.md](05-classification-algorithm.md) | 4집단 분류 판정 흐름도 (CDR + 진단기준 분기, Mermaid) | 부속 |
 
 ## 핵심 설계 결정 요약
 1. **프레이밍**: "단계 간 차이 검정"이 아니라 **"단계별 차별화 프로토콜 개발 + 전문가 합의
